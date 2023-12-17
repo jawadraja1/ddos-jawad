@@ -5,7 +5,6 @@ import sys
 
 os.system("clear")
 os.system("python src/logo.py")
-os.system("python src/serv.py")
 
 Green="\033[1;33m"
 Blue="\033[1;34m"
